@@ -1,0 +1,13 @@
+{
+  "tolerance": 1e-06,
+  "rho": 1.0,
+  "units": "normalized",
+  "storage_solver": "interior_point",
+  "convergence_note": "Residual definitions differ between algorithms; see ESTUDO.md.",
+  "data_source": "model.example; recomputed by figures.py",
+  "scenarios": [
+    "base",
+    "dry",
+    "reserve"
+  ]
+}
